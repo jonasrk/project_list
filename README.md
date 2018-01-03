@@ -1,4 +1,5 @@
 **Projects**
+
 github: https://github.com/jonasrk/
 stack overflow: https://stackoverflow.com/users/1720523/moejoe
 
@@ -19,6 +20,7 @@ Bachelorarbeit: https://github.com/jonasrk/Minecraft-MicroPsi-Bachelorarbeit/raw
 https://hpi.de/baudisch/projects/turkdeck.html
 
 **Specific activities**
+
 Silverfox:
 - Parse Backend
 - Wearable Firmware
