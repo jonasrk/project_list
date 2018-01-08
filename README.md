@@ -39,6 +39,6 @@ PrepJet:
 Zeitstrom:
 - React Webapp prototype, Django
 
-** Misc **
+**Misc**
 
 - A talk about some of my projects: https://youtu.be/J_XbjSwQ3zc (Very bad audio/video quality, sorry!)
